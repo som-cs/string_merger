@@ -1,0 +1,23 @@
+{
+  "name": "string_merger",
+  "version": "1.0.0",
+  "description": "just add 2 strings, this is just a test so if you find it usefull.... go nuts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/som-cs/string_merger.git"
+  },
+  "keywords": [
+    "string",
+    "add"
+  ],
+  "author": "awwsom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/som-cs/string_merger/issues"
+  },
+  "homepage": "https://github.com/som-cs/string_merger#readme"
+}
