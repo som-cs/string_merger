@@ -21,7 +21,7 @@
   },
 
   "publishConfig": {
-  "registry": "https://npm.pkg.github.com"
+	  "registry": "https://registry.npmjs.org/"
   },
 
   "homepage": "https://github.com/som-cs/string_merger#readme"
